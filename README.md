@@ -1,5 +1,5 @@
 # tree (command) Unix in golang
-This is an implementation of tree Unix (command), which represents displays of a directory in a tree like format.
+This is an implementation of tree (command) Unix, which displays contents of a directory in a tree-like format.
 
 ### Input #1
 ```
